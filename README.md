@@ -1,4 +1,4 @@
-# FLUTTER Portfolio
+# Flutter Portfolio
 
 Hello. Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities.
 
@@ -24,22 +24,22 @@ Dastyar offers multiple currencies, categories, and advacend filtering options, 
 
 Technologies
 
-- Flutter 🦋 
+- Flutter 
 - Dart 💻
 - Firebase 🔥
 - Shared Preferences 💾
-- Google Sign 🔑
-- Apple Sign 🔑
+- Google Sign 🔑 (optional)
+- Apple Sign 🔑 (optional)
 - In-App Subscriptions
 - Clean Architecture 🔨
-- GoRoute for Navigation 🗺️
+- GetX for Navigation 🗺️
 - Local & Push Notifications
-- Riverpod for State Management 🚀
-- Internationalization (en & pt) 🌎
+- GetX for State Management 🚀
+- Internationalization (en & fa) 🌎
 - Optimized for iOS and Android 📱
 
 #
-# Math Fortress - Math Learning app for bachelors
+# Math Fortress - Math app for bachelors
 
 <p align="left">
   <img width="1000" alt="Dastyar" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/06b29278-247e-4701-a85b-46e45b7ff265" />
@@ -62,27 +62,17 @@ Dastyar offers multiple currencies, categories, and advacend filtering options, 
 
 - Light & Dark Mode
 - Available in English & ready for new language 
-- Authentication (Login/Sign up), Google SignIn
-- Reset Password 
+- Authentication (Login/Sign up), Api Based
+- forget Password 
 - Beautiful onboarding layout 
-- Shop by category and popular products
-- Search products by name
-- Filter products by name, category, price (low and high)
-- Save Products as Favorite 
+- learn by category
+- Search questions by name
 - Edit account details easily
-- Change Password Easily
-- Order products
-- Beautiful Product pages with reviews, descriptions, and features
 - Adaptive UI (changes color based on Mode dark or light)
-- Payment integration with stripe
-- Dark and Light Mode friendly
-- Backend Firebase
+- Backend django
 - Responsive
 - Performance friendly
 - Home and Details page
 - Custom parameters per product
 - Segmented orders
 - Rating system
-- Updating item quantity in the cart
-- Address management (Adding and Editing addresses)
-- Push Notification
