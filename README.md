@@ -1,4 +1,4 @@
-# Flutter Portfolio
+# Flutter Portfolio (will be updated soon)
 
 Hello. Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities.
 
@@ -30,26 +30,24 @@ Technologies
 - Shared Preferences 💾
 - Google Sign 🔑 (optional)
 - Apple Sign 🔑 (optional)
-- In-App Subscriptions
+- Bloc for state manager 🚀
 - Clean Architecture 🔨
 - GetX for Navigation 🗺️
 - Local & Push Notifications
-- GetX for State Management 🚀
 - Internationalization (en & fa) 🌎
 - Optimized for iOS and Android 📱
 
 #
-# Math Fortress - Math app for bachelors
+# Sigma - Math app for bachelors
 
 <p align="left">
   <img width="1000" alt="Dastyar" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/06b29278-247e-4701-a85b-46e45b7ff265" />
 </p>
 
-Dastyar - is a dynamic and user-friendly expense tracker app designed to revolutionize the way you manage your finances. Offering unparalleled control, the app simplifies budgeting, expense tracking, and financial awareness with a host of powerful features.
+Sigma - Multi-Stage Question Solver
+This Flutter application is designed as a multi-stage question-solving platform that interacts dynamically with a backend API. It supports a streamlined question flow where users progress through different stages of a question, receiving new options based on their responses.
 
-Dastyar offers multiple currencies, categories, and advacend filtering options, budgets management & bills management.
-
-## Math Fortress: Learn Academic Mathemathics easy. 
+## Sigma: Learn Academic Mathemathics easy. 
  
 <p align="left">
   <img width="200" alt="DastyarMockup1" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/17b446d7-f807-483f-bf62-261b3f4d37f2" />
@@ -61,7 +59,6 @@ Dastyar offers multiple currencies, categories, and advacend filtering options, 
 ## Application Features:
 
 - Light & Dark Mode
-- Available in English & ready for new language 
 - Authentication (Login/Sign up), Api Based
 - forget Password 
 - Beautiful onboarding layout 
@@ -69,10 +66,9 @@ Dastyar offers multiple currencies, categories, and advacend filtering options, 
 - Search questions by name
 - Edit account details easily
 - Adaptive UI (changes color based on Mode dark or light)
-- Backend django
+- Backend django & flask
 - Responsive
 - Performance friendly
 - Home and Details page
 - Custom parameters per product
 - Segmented orders
-- Rating system
